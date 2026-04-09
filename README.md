@@ -1,2 +1,2 @@
 # earthradius
-Educational PHP web app for estimating Earth’s radius from shadow measurements, geolocation, and statistical analysis.
+This project is a lightweight PHP-based data collection and analysis platform for reproducing an Earth-radius measurement experiment. Users can log in, record shadow lengths with location data, upload images, export datasets, and compute a radius estimate with summary statistics.
